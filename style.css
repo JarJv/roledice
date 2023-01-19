@@ -48,7 +48,7 @@ input{
     margin: 0.5%;
 }
 
-.btn-outline-light:hover, #resultado:hover, #resultado:focus, #valorhab:hover, #valorhab:focus, #valordado:hover, #valordado:focus{
+.btn-outline-light:hover, #valorhab:hover, #valorhab:focus{
     background-color: #2D2A8C;
     border-color: #121040;
 }
